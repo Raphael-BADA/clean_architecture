@@ -1,0 +1,16 @@
+name: clean_archi_generator
+version: 1.0.1
+description: Script shell pour créer une structure de base pour Clean Architecture dans les projets Flutter.
+homepage: https://github.com/Raphael-BADA/clean_architecture.git
+
+environment:
+  sdk: ^3.2.6
+
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
+documentation: https://github.com/Raphael-BADA/clean_architecture.git
+
